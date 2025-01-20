@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401681774682",
+    "project_id": "c2wstudinfo-52815",
+    "storage_bucket": "c2wstudinfo-52815.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401681774682:android:ad715fe3fce78b8f2dc063",
+        "android_client_info": {
+          "package_name": "com.example.c2w_student_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNUtS-heVH-8cLt3JiFPkXyhanGGQjnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
